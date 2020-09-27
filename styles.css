@@ -101,7 +101,6 @@ html {
 
   
   .header-main-cont{
-      width: 60%; 
       height: 60vh;
       background: rgb(206, 206, 206);
       font-weight: bold;
@@ -125,7 +124,7 @@ html {
       height: 50%;
       margin: 0px 10px 10px 10px;
       font-size: 3rem;
-      padding: 5px;
+      padding: 20px;
   }
   
   .header-side-2 {
@@ -133,7 +132,7 @@ html {
       height: 50%;
       background: rgb(214, 27, 27);
       font-size: 3rem;
-      padding: 5px;
+      padding: 20px;
   }
   
   .header-side-cont{
@@ -257,17 +256,23 @@ html {
 
         .page-header {
             display: block;
-            margin-top: 0px;
+            margin: 0px;
+            width: 100%;
+
+        }
+
+        .page-lead-article { 
+          padding: 20px;
         }
 
         .header-main-cont {
             height: 120px;
-            width: 100vw;
+            margin-right: 10px;
         }
 
         .header-side-cont{
             margin-top: 10px;
-            width: 100vw;
+            width: 100%;
         }
 
         .latest-news {
