@@ -1,1 +1,3 @@
-Created responsive design and mobile compatible website using html and CSS. Website was created for the Odin Project and is a clone of https://thenextweb.com/
+Created a mobile-friendly website with responsive design using CSS flexbox and media queries. Website is a clone of https://thenextweb.com/.
+
+Live site can be found [here](https://mvangin.github.io/responsive-design/)
